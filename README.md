@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hello, I'm Iliyan Valani! 👋
 
-<!--
-**iliyanvalani1/iliyanvalani1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 Double Majoring in **Biology** and **Data Science** at **USC**
+- 🌱 Currently diving deep into the realm of Machine Learning and Artificial Intelligence
+- 🎯 Passionate about improving healthcare outcomes through data science 
 
-Here are some ideas to get you started:
+## 💼 Current Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### BrainScan AI (July 2023 - Present)
+- 🧠 **About**: BrainScanAI is an interactive web application designed to harness the power of machine learning for classifying MRI brain images.
+- 🛠️ **Technologies Used**: Python, Flask, TensorFlow, pandas, scikit-learn, NumPy, Matplotlib, HTML
+- ✨ **Features**:
+  - Predicts dementia levels and Alzheimer’s stages based on uploaded MRI images
+  - Utilizes advanced machine learning algorithms for accurate classification
+  - Offers a user-friendly interface for easy navigation and usage
+  - Facilitates seamless upload and analysis of MRI images
+  
+## 🌐 Connect with Me
+- LinkedIn: [iliyan-valani](https://www.linkedin.com/in/iliyanvalani/)
+- GitHub: [iliyanvalani](https://github.com/iliyanvalani1)
+- Email: ivalani@usc.edu
+
+Feel free to reach out if you have any questions or collaboration opportunities!
