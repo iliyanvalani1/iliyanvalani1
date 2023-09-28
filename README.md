@@ -17,8 +17,8 @@
   - Facilitates seamless upload and analysis of MRI images
   
 ## 🌐 Connect with Me
-- LinkedIn: [iliyan-valani](https://www.linkedin.com/in/iliyanvalani/)
-- GitHub: [iliyanvalani](https://github.com/iliyanvalani1)
+- LinkedIn: [iliyanvalani](https://www.linkedin.com/in/iliyanvalani/)
+- GitHub: [iliyanvalani1](https://github.com/iliyanvalani1)
 - Email: ivalani@usc.edu
 
 Feel free to reach out if you have any questions or collaboration opportunities!
